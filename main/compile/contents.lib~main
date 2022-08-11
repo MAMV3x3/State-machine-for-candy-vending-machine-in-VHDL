@@ -1,0 +1,20 @@
+44
+~E 1 "../src/conversorbits.vhd" 4 conversorbits
+~A 1 "../src/conversorbits.vhd" 9 conv
+~E 1 "../src/divfrecuencia.vhd" 4 divfrecuencia
+~A 1 "../src/divfrecuencia.vhd" 10 behavorial
+~E 1 "../src/svnsegment.vhd" 4 exhibidor7seg
+~A 1 "../src/svnsegment2.vhd" 10 Universal
+~E 1 "../src/frecuencialed.vhd" 4 frecuencialed
+~A 1 "../src/frecuencialed.vhd" 10 behavorial
+~E 1 "../src/main.vhd" 4 main
+~A 1 "../src/main.vhd" 12 core
+~E 1 "../src/maquina_estados.vhd" 4 maquina_estados
+~A 1 "../src/maquina_estados.vhd" 12 core
+~E 1 "../src/secuencia_led.vhd" 4 secuencia_led
+~A 1 "../src/secuencia_led.vhd" 10 barrido
+~E 1 "../src/svnsegment.vhd" 4 svnsegment
+~A 1 "../src/svnsegment.vhd" 10 Universal
+~E 1 "../src/svnsegment2.vhd" 4 svnsegment2
+~A 1 "../src/svnsegment2.vhd" 10 Universal
+~A 1 "../src/svnsegment2.vhd" 10 Universal2

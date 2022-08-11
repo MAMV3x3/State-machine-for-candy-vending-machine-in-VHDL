@@ -1,0 +1,59 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.1 [s].
+acom -O3 -e 100 -work main -2002  $dsn/src/maquina_estados.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Active-HDL/Proyectofinal/main/src/maquina_estados.vhd
+# Compile Entity "maquina_estados"
+# Compile Architecture "core" of Entity "maquina_estados"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work main -2002  $dsn/src/maquina_estados.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Active-HDL/Proyectofinal/main/src/maquina_estados.vhd
+# Compile Entity "maquina_estados"
+# Compile Architecture "core" of Entity "maquina_estados"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work main -2002  $dsn/src/maquina_estados.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Active-HDL/Proyectofinal/main/src/maquina_estados.vhd
+# Compile Entity "maquina_estados"
+# Compile Architecture "core" of Entity "maquina_estados"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work main -2002  $dsn/src/secuencia_led.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Active-HDL/Proyectofinal/main/src/secuencia_led.vhd
+# Compile Entity "secuencia_led"
+# Compile Architecture "barrido" of Entity "secuencia_led"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work main -2002  $dsn/src/frecuencialed.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Active-HDL/Proyectofinal/main/src/frecuencialed.vhd
+# Compile Entity "frecuencialed"
+# Compile Architecture "behavorial" of Entity "frecuencialed"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work main -2002  $dsn/src/main.vhd $dsn/src/maquina_estados.vhd $dsn/src/secuencia_led.vhd $dsn/src/svnsegment.vhd $dsn/src/divfrecuencia.vhd $dsn/src/frecuencialed.vhd $dsn/src/conversorbits.vhd $dsn/src/svnsegment2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: D:/Active-HDL/Proyectofinal/main/src/main.vhd
+# Compile Entity "main"
+# Compile Architecture "core" of Entity "main"
+# File: D:/Active-HDL/Proyectofinal/main/src/maquina_estados.vhd
+# Compile Entity "maquina_estados"
+# Compile Architecture "core" of Entity "maquina_estados"
+# File: D:/Active-HDL/Proyectofinal/main/src/secuencia_led.vhd
+# Compile Entity "secuencia_led"
+# Compile Architecture "barrido" of Entity "secuencia_led"
+# File: D:/Active-HDL/Proyectofinal/main/src/svnsegment.vhd
+# Compile Entity "svnsegment"
+# Compile Architecture "Universal" of Entity "svnsegment"
+# File: D:/Active-HDL/Proyectofinal/main/src/divfrecuencia.vhd
+# Compile Entity "divfrecuencia"
+# Compile Architecture "behavorial" of Entity "divfrecuencia"
+# File: D:/Active-HDL/Proyectofinal/main/src/frecuencialed.vhd
+# Compile Entity "frecuencialed"
+# Compile Architecture "behavorial" of Entity "frecuencialed"
+# File: D:/Active-HDL/Proyectofinal/main/src/conversorbits.vhd
+# Compile Entity "conversorbits"
+# Compile Architecture "conv" of Entity "conversorbits"
+# File: D:/Active-HDL/Proyectofinal/main/src/svnsegment2.vhd
+# Compile Entity "svnsegment2"
+# Compile Architecture "Universal2" of Entity "svnsegment2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]

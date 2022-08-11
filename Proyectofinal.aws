@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+main=.\main\main.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+main=1

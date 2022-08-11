@@ -1,0 +1,8 @@
+.\src\main.vhd
+.\src\maquina_estados.vhd
+.\src\secuencia_led.vhd
+.\src\svnsegment.vhd
+.\src\divfrecuencia.vhd
+.\src\frecuencialed.vhd
+.\src\conversorbits.vhd
+.\src\svnsegment2.vhd

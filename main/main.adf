@@ -1,0 +1,45 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=main
+[Library]
+main=.\main\main.lib
+[$LibMap$]
+main=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+fileopenfolder=D:\Active-HDL\Proyectofinal\main\src
+[IMPLEMENTATION]
+UCF=
+[Files]
+/main.vhd=-1
+/maquina_estados.vhd=-1
+/secuencia_led.vhd=-1
+/svnsegment.vhd=-1
+/divfrecuencia.vhd=-1
+/frecuencialed.vhd=-1
+/conversorbits.vhd=-1
+/svnsegment2.vhd=-1
+[Files.Data]
+.\src\main.vhd=VHDL Source Code
+.\src\maquina_estados.vhd=VHDL Source Code
+.\src\secuencia_led.vhd=VHDL Source Code
+.\src\svnsegment.vhd=VHDL Source Code
+.\src\divfrecuencia.vhd=VHDL Source Code
+.\src\frecuencialed.vhd=VHDL Source Code
+.\src\conversorbits.vhd=VHDL Source Code
+.\src\svnsegment2.vhd=VHDL Source Code
+[HierarchyViewer]
+HierarchyInformation=maquina_estados|core|0
+ShowHide=ShowTopLevel
+Selected=
